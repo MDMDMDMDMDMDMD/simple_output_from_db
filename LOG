@@ -1,0 +1,51 @@
+C:\int\apache-tomcat-9.0.30\bin\catalina.bat run
+[2020-01-09 01:49:05,563] Artifact cosmoport:war exploded: Waiting for server connection to start artifact deployment...
+Using CATALINA_BASE:   "C:\Users\Dimm\.IntelliJIdea2019.3\system\tomcat\Unnamed_cosmoport_3"
+Using CATALINA_HOME:   "C:\int\apache-tomcat-9.0.30"
+Using CATALINA_TMPDIR: "C:\int\apache-tomcat-9.0.30\temp"
+Using JRE_HOME:        "C:\Program Files\Java\jdk1.8.0_231"
+Using CLASSPATH:       "C:\int\apache-tomcat-9.0.30\bin\bootstrap.jar;C:\int\apache-tomcat-9.0.30\bin\tomcat-juli.jar"
+09-Jan-2020 13:49:07.501 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.30
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 7 2019 16:42:04 UTC
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.30.0
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_231\jre
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_231-b11
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Dimm\.IntelliJIdea2019.3\system\tomcat\Unnamed_cosmoport_3
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\int\apache-tomcat-9.0.30
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Dimm\.IntelliJIdea2019.3\system\tomcat\Unnamed_cosmoport_3\conf\logging.properties
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+09-Jan-2020 13:49:07.502 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\Dimm\.IntelliJIdea2019.3\system\tomcat\Unnamed_cosmoport_3\jmxremote.password
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\Dimm\.IntelliJIdea2019.3\system\tomcat\Unnamed_cosmoport_3\jmxremote.access
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Dimm\.IntelliJIdea2019.3\system\tomcat\Unnamed_cosmoport_3
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\int\apache-tomcat-9.0.30
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\int\apache-tomcat-9.0.30\temp
+09-Jan-2020 13:49:07.504 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_231\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\Dimm\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1.3\bin;;E:\java\intship\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Server 5.1\bin\;.]
+09-Jan-2020 13:49:08.007 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+09-Jan-2020 13:49:08.027 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+09-Jan-2020 13:49:08.030 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [718] milliseconds
+09-Jan-2020 13:49:08.057 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Jan-2020 13:49:08.057 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.30]
+09-Jan-2020 13:49:08.070 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+09-Jan-2020 13:49:08.079 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+09-Jan-2020 13:49:08.080 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [50] milliseconds
+Connected to server
+[2020-01-09 01:49:08,212] Artifact cosmoport:war exploded: Artifact is being deployed, please wait...
+09-Jan-2020 13:49:11.391 INFO [RMI TCP Connection(3)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+log4j:WARN No appenders could be found for logger (org.springframework.web.context.ContextLoader).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[2020-01-09 01:49:15,326] Artifact cosmoport:war exploded: Artifact is deployed successfully
+[2020-01-09 01:49:15,326] Artifact cosmoport:war exploded: Deploy took 7,114 milliseconds
+09-Jan-2020 13:49:18.077 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory РЈСЃС‚Р°РЅРѕРІРєР° РІРµР± РїСЂРёР»РѕР¶РµРЅРёСЏ РІ РїР°РїРєСѓ [C:\int\apache-tomcat-9.0.30\webapps\manager]
+09-Jan-2020 13:49:18.143 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\int\apache-tomcat-9.0.30\webapps\manager] has finished in [66] ms
